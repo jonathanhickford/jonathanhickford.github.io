@@ -1,4 +1,4 @@
-baseURL = 'https://jonathanhickford.github.io/paapi_inventory_test/'
+baseURL = 'https://jonathanhickford.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
