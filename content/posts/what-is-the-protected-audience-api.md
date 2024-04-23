@@ -1,7 +1,7 @@
 +++
 title = 'What Is the Protected Audience API'
 date = 2024-04-23T20:51:02+01:00
-draft = true
+draft = false
 +++
 
 # Demystifying the Protected Audience API: Privacy and Precision in Advertising
