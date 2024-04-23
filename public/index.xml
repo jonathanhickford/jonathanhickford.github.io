@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Understanding the Privacy Sandbox</title>
     <link>https://jonathanhickford.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Understanding the Privacy Sandbox</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Apr 2024 12:03:41 +0100</lastBuildDate>
     <atom:link href="https://jonathanhickford.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://jonathanhickford.github.io/posts/my-first-post/</link>
+      <title>What is the privacy sandbox?</title>
+      <link>https://jonathanhickford.github.io/posts/what-is-the-privacy-sandbox/</link>
       <pubDate>Tue, 23 Apr 2024 12:03:41 +0100</pubDate>
-      <guid>https://jonathanhickford.github.io/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <guid>https://jonathanhickford.github.io/posts/what-is-the-privacy-sandbox/</guid>
+      <description>Understanding the Google Chrome Privacy Sandbox Google Chrome, the ubiquitous web browser used by billions, is rolling out a groundbreaking initiative known as the Privacy Sandbox. Designed to address growing concerns around online privacy and data security, the Privacy Sandbox aims to revolutionize how user data is handled in the digital realm.&#xA;What is the Privacy Sandbox? At its core, the Privacy Sandbox is a set of proposals and technologies developed by Google to enhance user privacy while still enabling personalized online experiences.</description>
     </item>
   </channel>
 </rss>
